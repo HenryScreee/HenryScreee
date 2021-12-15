@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @HenryScreee
 - 👀 I’m interested in C++, Python, Javascript, Machine Learning.
-- 🌱 I’m currently learning C++, Machine Learning
-- 📫 How to reach me HenryScreee#6766
+- 🌱 I’m currently learning C++, Machine Learning, Unreal Engine.
+- 📫 How to reach me: HenryScreee#6766
